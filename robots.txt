@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eprichric.github.io/sitemap.html.gz
+Sitemap: https://eprichric.github.io/app/sitemap.html.gz
+Sitemap: https://eprichric.github.io/assets/sitemap.html.gz
+Sitemap: https://eprichric.github.io/css/sitemap.html.gz
+Sitemap: https://eprichric.github.io/includes/sitemap.html.gz
+Sitemap: https://eprichric.github.io/item/sitemap.html.gz
+Sitemap: https://eprichric.github.io/src/sitemap.html.gz
